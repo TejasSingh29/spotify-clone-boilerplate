@@ -1,0 +1,29 @@
+.background{
+    background-color: rgb(42, 40, 40);
+    height: 100%;
+}
+.nav-bar{
+    
+    height: 60px;
+    
+    ;
+    background-image: url();
+}
+.img{
+    height: 36px;
+}
+.img1{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.h3{
+    margin-left: 40px;
+    margin-top: -20px;
+    color: azure;
+    font-size: 15px;
+}
+/* .div2{
+    background-color:;
+    display: ;
+} */
