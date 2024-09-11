@@ -1,29 +1,157 @@
 .background{
     background-color: rgb(42, 40, 40);
     height: 100%;
+    padding: auto;
 }
 .nav-bar{
-    
-    height: 60px;
+    padding: 0px;
     
     ;
     background-image: url();
 }
 .img{
     height: 36px;
+    margin-top: 30px;
+    padding: 0px;
+    margin-left: 15px;
 }
 .img1{
     height: 20px;
-    margin-top: 20px;
+    margin-top: 5px;
     margin-left: 15px;
+    padding: 0px;
 }
 .h3{
-    margin-left: 40px;
+    margin-left: 60px;
     margin-top: -20px;
     color: azure;
     font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 /* .div2{
     background-color:;
     display: ;
 } */
+.img2{
+    height: 30px;
+    margin-left: 90px;
+    margin-top: 0px;
+}
+.img3{
+    margin-left: 1100px;
+    
+    height: 30px;
+    
+}
+.h33{
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .div2{
+    color: rgb(56, 143, 219);
+    display: inline;
+    size: 0px;
+    padding-top: 50px;
+    height: 10px; */
+/* } */
+.img4{
+    height: 20px;
+    margin-left: 15px;
+}
+.h22{
+    color: aliceblue;
+    margin-left: 250px;
+    margin-top: -520px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img22{
+    height: 50px;
+    margin-left: 250px;
+        
+}
+.h{
+    margin-left: 320px;
+    margin-top: -40px;
+    color: aliceblue;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgg{
+    height: 50px;
+    margin-left: 510px;
+    margin-top: -110px;
+}
+.hh{
+    margin-left: 590px;
+    margin-top: -95px;
+    color: aliceblue;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imggg{
+    height: 50px;
+    margin-top: -47px;
+    margin-left: 850px;
+}
+.h333{
+    margin-left: 930px;
+    margin-top: -40px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img44{
+    margin-left: 1150px;
+    height: 50px;
+    margin-top: -47px;
+}
+.hhh{
+    margin-left: 1230px;
+    margin-top: -40px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h5{
+    margin-left: 250px;
+    margin-top: 100px;
+    color: aliceblue ;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+.img9{
+    margin-left: 254px;
+    height: 170px;
+}
+.img8{
+    margin-left: 40px;
+    height: 170px;
+
+}
+.img7{
+    margin-left: 40px;
+    height: 170px;
+
+}
+.img6{
+    margin-left: 40px;
+    height: 170px;
+
+
+}
+.img5{
+    margin-left: 40px;
+    height: 170px;
+
+}
+.img10{
+    margin-left: 40px;
+    height: 170px;
+
+}
+.music{
+    height: 80px;
+    margin-left: 490px;
+    margin-top: 100px;
+}
